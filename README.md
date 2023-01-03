@@ -1,0 +1,2 @@
+# Variable Selection using MIQP - Optimization
+ In this study, we tested the feasibility of direct variable selection using two approaches: 1. Mixed Integer Quadratic Programming (MIQP) 2. LASSO Regression The MIQP variable selection problem for regression will be solved using Gurobi and its results will be compared to the results given by LASSO regression. The comparison of these results will then be used to advise management on which variable selection method should be preferred.
